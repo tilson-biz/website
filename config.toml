@@ -1,5 +1,5 @@
 baseURL = 'https://tilson.biz/'
 languageCode = 'en-us'
 title = 'tilson.biz'
-theme="archie"
+theme = 'hugo-book'
 publishDir = 'docs'
