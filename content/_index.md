@@ -2,8 +2,6 @@
 title: tilson.biz
 type: docs
 ---
-<img src="/og.png" width="1" height="1" />
-
 # It's time for **The Cloud**
 
 ![break-line](/line-horizontal-bg-light.png)
