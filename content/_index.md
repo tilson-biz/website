@@ -2,7 +2,10 @@
 title: tilson.biz
 type: docs
 ---
+<img src="/og.png" width="1" height="1" />
+
 # It's time for **The Cloud**
+
 ![break-line](/line-horizontal-bg-light.png)
 
 * Our small team helps small businesses with cloud computing
