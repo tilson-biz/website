@@ -77,19 +77,19 @@ enableGitInfo = false
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/tilson-biz/website'
+  # BookRepo = 'https://github.com/tilson-biz/website'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
   # Requires 'BookRepo' param.
   # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
   # Github uses 'commit', Bitbucket uses 'commits'
-  BookCommitPath = 'commit'
+  # BookCommitPath = 'commit'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main'
+  # BookEditPath = 'edit/main'
 
   # Configure the date format used on the pages
   # - In git information
@@ -105,7 +105,7 @@ enableGitInfo = false
   # By default partals/docs/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
-  BookComments = true
+  # BookComments = true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
